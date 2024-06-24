@@ -1,7 +1,7 @@
 ## Mobile Development
 Tanam Pintar - Product Based Capstone Project Bangkit 2024
 
-## Screenshots
+## Screenshot
 ![Overview](https://github.com/TanamPintar/Mobile-Development/assets/117373959/5968528e-e093-4c1b-9ef0-77bedb177589)
 
 ## Features
