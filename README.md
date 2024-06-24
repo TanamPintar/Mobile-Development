@@ -16,7 +16,7 @@ Tanam Pintar - Product Based Capstone Project Bangkit 2024
 - Recommendation System
 
 ## Build With
-Our Application built with [MVVM (Model View View-Model)](https://developer.android.com/topic/architecture#recommended-app-arch) architecture, and several libraries
+Our Application is built with [MVVM (Model View View-Model)](https://developer.android.com/topic/architecture#recommended-app-arch) architecture, and several libraries
 
 - [Kotlin](https://kotlinlang.org/)
 - [Coroutines](https://developer.android.com/kotlin/coroutines)
@@ -47,4 +47,7 @@ Our Application built with [MVVM (Model View View-Model)](https://developer.andr
 | Black | ![#FF000000](https://via.placeholder.com/10/000000?text=+) #FF000000 |
 | Red | ![#DB2316](https://via.placeholder.com/10/DB2316?text=+) #DB2316 |
 | Transparent Red | ![#26DB2316](https://via.placeholder.com/10/DB2316?text=+) #26DB2316 |
+
+## APK Link
+You can try the application that we made by downloading the file that we have released, [click here](https://drive.google.com/file/d/1hEQ9HhYTjLG5oJ5c_-Lna5ye2AQ5u8z_/view?usp=sharing)
 
