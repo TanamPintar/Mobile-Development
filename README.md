@@ -44,7 +44,7 @@ Our Application built with [MVVM (Model View View-Model)](https://developer.andr
 | Text Primary | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
 | Text Secondary | ![#B0B0B0](https://via.placeholder.com/10/B0B0B0?text=+) #B0B0B0 |
 | White | ![#FFFFFFFF](https://via.placeholder.com/10/FFFFFFFF?text=+) #FFFFFFFF |
-| Black | ![#FF000000](https://via.placeholder.com/10/FF000000?text=+) #FF000000 |
+| Black | ![#FF000000](https://via.placeholder.com/10/000000?text=+) #FF000000 |
 | Red | ![#DB2316](https://via.placeholder.com/10/DB2316?text=+) #DB2316 |
-| Transparent Red | ![#26DB2316](https://via.placeholder.com/10/26DB2316?text=+) #26DB2316 |
+| Transparent Red | ![#26DB2316](https://via.placeholder.com/10/DB2316?text=+) #26DB2316 |
 
