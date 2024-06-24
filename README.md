@@ -1,19 +1,22 @@
+## Mobile Development
+Tanam Pintar - Product Based Capstone Project Bangkit 2024
+
 ## Screenshots
-![UI TanamPintar App](https://drive.google.com/file/d/1kBmOa3YnAsjRgPbXykDLLx4VUe7iU4Mf/view?usp=sharing)
+![Overview](https://github.com/TanamPintar/Mobile-Development/assets/117373959/5968528e-e093-4c1b-9ef0-77bedb177589)
 
 ## Features
 - Splash Screen
-- Login
-- Register
+- Login & Register
+- View Detail
 - View History
 - View Shop
 - View Profile
 - Theme Mode
 - Image Classification
-- Recommendation
+- Recommendation System
 
 ## Build With
-- [kotlin](https://kotlinlang.org/)
+- [Kotlin](https://kotlinlang.org/)
 - [Coroutines](https://developer.android.com/kotlin/coroutines)
 - [CoordinatorLayout](https://developer.android.com/reference/androidx/coordinatorlayout/widget/CoordinatorLayout)
 - [CircelImageView](https://github.com/hdodenhof/CircleImageView)
