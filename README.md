@@ -16,6 +16,8 @@ Tanam Pintar - Product Based Capstone Project Bangkit 2024
 - Recommendation System
 
 ## Build With
+Our Application built with [MVVM (Model View View-Model)](https://developer.android.com/topic/architecture#recommended-app-arch) architecture, and several libraries
+
 - [Kotlin](https://kotlinlang.org/)
 - [Coroutines](https://developer.android.com/kotlin/coroutines)
 - [CoordinatorLayout](https://developer.android.com/reference/androidx/coordinatorlayout/widget/CoordinatorLayout)
@@ -32,3 +34,17 @@ Tanam Pintar - Product Based Capstone Project Bangkit 2024
 - [Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
 - [Shimmer](https://github.com/facebookarchive/shimmer-android)
+
+
+## Color Palette
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#00A900](https://via.placeholder.com/10/00A900?text=+) #00A900 |
+| Primary Variant | ![#388E3C](https://via.placeholder.com/10/388E3C?text=+) #388E3C |
+| Text Primary | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Text Secondary | ![#B0B0B0](https://via.placeholder.com/10/B0B0B0?text=+) #B0B0B0 |
+| White | ![#FFFFFFFF](https://via.placeholder.com/10/FFFFFFFF?text=+) #FFFFFFFF |
+| Black | ![#FF000000](https://via.placeholder.com/10/FF000000?text=+) #FF000000 |
+| Red | ![#DB2316](https://via.placeholder.com/10/DB2316?text=+) #DB2316 |
+| Transparent Red | ![#26DB2316](https://via.placeholder.com/10/26DB2316?text=+) #26DB2316 |
+
